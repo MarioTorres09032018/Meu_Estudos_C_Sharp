@@ -1,0 +1,6 @@
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\Console_ARGEMENTO_PARAMS\Console_ARGEMENTO_PARAMS\bin\Debug\Console_ARGEMENTO_PARAMS.exe.config
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\Console_ARGEMENTO_PARAMS\Console_ARGEMENTO_PARAMS\bin\Debug\Console_ARGEMENTO_PARAMS.exe
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\Console_ARGEMENTO_PARAMS\Console_ARGEMENTO_PARAMS\bin\Debug\Console_ARGEMENTO_PARAMS.pdb
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\Console_ARGEMENTO_PARAMS\Console_ARGEMENTO_PARAMS\obj\Debug\Console_ARGEMENTO_PARAMS.csprojResolveAssemblyReference.cache
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\Console_ARGEMENTO_PARAMS\Console_ARGEMENTO_PARAMS\obj\Debug\Console_ARGEMENTO_PARAMS.exe
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\Console_ARGEMENTO_PARAMS\Console_ARGEMENTO_PARAMS\obj\Debug\Console_ARGEMENTO_PARAMS.pdb

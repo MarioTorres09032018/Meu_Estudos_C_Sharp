@@ -1,0 +1,6 @@
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\Console_CLASSES_STATIC\Console_CLASSES_STATIC\bin\Debug\Console_CLASSES_STATIC.exe.config
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\Console_CLASSES_STATIC\Console_CLASSES_STATIC\bin\Debug\Console_CLASSES_STATIC.exe
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\Console_CLASSES_STATIC\Console_CLASSES_STATIC\bin\Debug\Console_CLASSES_STATIC.pdb
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\Console_CLASSES_STATIC\Console_CLASSES_STATIC\obj\Debug\Console_CLASSES_STATIC.csprojResolveAssemblyReference.cache
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\Console_CLASSES_STATIC\Console_CLASSES_STATIC\obj\Debug\Console_CLASSES_STATIC.exe
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\Console_CLASSES_STATIC\Console_CLASSES_STATIC\obj\Debug\Console_CLASSES_STATIC.pdb

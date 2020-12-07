@@ -1,0 +1,6 @@
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\Console_ARRAY_VETOR\Console_ARRAY_VETOR\bin\Debug\Console_ARRAY_VETOR.exe.config
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\Console_ARRAY_VETOR\Console_ARRAY_VETOR\obj\Debug\Console_ARRAY_VETOR.csprojResolveAssemblyReference.cache
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\Console_ARRAY_VETOR\Console_ARRAY_VETOR\bin\Debug\Console_ARRAY_VETOR.exe
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\Console_ARRAY_VETOR\Console_ARRAY_VETOR\bin\Debug\Console_ARRAY_VETOR.pdb
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\Console_ARRAY_VETOR\Console_ARRAY_VETOR\obj\Debug\Console_ARRAY_VETOR.exe
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\Console_ARRAY_VETOR\Console_ARRAY_VETOR\obj\Debug\Console_ARRAY_VETOR.pdb

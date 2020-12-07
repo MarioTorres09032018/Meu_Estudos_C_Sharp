@@ -1,0 +1,6 @@
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\Console_CLASSES_E_OBJETOS\Console_CLASSES_E_OBJETOS\bin\Debug\Console_CLASSES_E_OBJETOS.exe.config
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\Console_CLASSES_E_OBJETOS\Console_CLASSES_E_OBJETOS\bin\Debug\Console_CLASSES_E_OBJETOS.exe
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\Console_CLASSES_E_OBJETOS\Console_CLASSES_E_OBJETOS\bin\Debug\Console_CLASSES_E_OBJETOS.pdb
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\Console_CLASSES_E_OBJETOS\Console_CLASSES_E_OBJETOS\obj\Debug\Console_CLASSES_E_OBJETOS.csprojResolveAssemblyReference.cache
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\Console_CLASSES_E_OBJETOS\Console_CLASSES_E_OBJETOS\obj\Debug\Console_CLASSES_E_OBJETOS.exe
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\Console_CLASSES_E_OBJETOS\Console_CLASSES_E_OBJETOS\obj\Debug\Console_CLASSES_E_OBJETOS.pdb
