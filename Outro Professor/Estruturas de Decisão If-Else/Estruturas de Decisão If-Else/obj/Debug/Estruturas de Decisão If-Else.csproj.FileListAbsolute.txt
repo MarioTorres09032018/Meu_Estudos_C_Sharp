@@ -1,0 +1,9 @@
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\Estruturas de Decisão If-Else\Estruturas de Decisão If-Else\bin\Debug\Estruturas de Decisão If-Else.exe.config
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\Estruturas de Decisão If-Else\Estruturas de Decisão If-Else\obj\Debug\Estruturas de Decisão If-Else.csprojResolveAssemblyReference.cache
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\Estruturas de Decisão If-Else\Estruturas de Decisão If-Else\obj\Debug\Estruturas_de_Decisão_If_Else.Form1.resources
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\Estruturas de Decisão If-Else\Estruturas de Decisão If-Else\obj\Debug\Estruturas_de_Decisão_If_Else.Properties.Resources.resources
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\Estruturas de Decisão If-Else\Estruturas de Decisão If-Else\obj\Debug\Estruturas de Decisão If-Else.csproj.GenerateResource.Cache
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\Estruturas de Decisão If-Else\Estruturas de Decisão If-Else\bin\Debug\Estruturas de Decisão If-Else.exe
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\Estruturas de Decisão If-Else\Estruturas de Decisão If-Else\bin\Debug\Estruturas de Decisão If-Else.pdb
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\Estruturas de Decisão If-Else\Estruturas de Decisão If-Else\obj\Debug\Estruturas de Decisão If-Else.exe
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\Estruturas de Decisão If-Else\Estruturas de Decisão If-Else\obj\Debug\Estruturas de Decisão If-Else.pdb
