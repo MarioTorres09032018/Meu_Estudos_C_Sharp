@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Console_INDEXADORES_DE_CLASSES", "Console_INDEXADORES_DE_CLASSES\Console_INDEXADORES_DE_CLASSES.csproj", "{58F9CD28-A005-404B-A8E1-B19917E5A4CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58F9CD28-A005-404B-A8E1-B19917E5A4CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58F9CD28-A005-404B-A8E1-B19917E5A4CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58F9CD28-A005-404B-A8E1-B19917E5A4CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58F9CD28-A005-404B-A8E1-B19917E5A4CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {42EDFB12-5653-4BC7-8F12-67443995DB61}
+	EndGlobalSection
+EndGlobal
