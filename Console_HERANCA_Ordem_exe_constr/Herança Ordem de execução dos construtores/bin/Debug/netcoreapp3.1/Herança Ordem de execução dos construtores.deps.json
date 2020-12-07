@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Herança Ordem de execução dos construtores/1.0.0": {
+        "runtime": {
+          "Herança Ordem de execução dos construtores.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Herança Ordem de execução dos construtores/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

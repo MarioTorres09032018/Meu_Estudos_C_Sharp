@@ -1,0 +1,13 @@
+C:\Users\Portaria1 Unlimited\source\repos\Herança Ordem de execução dos construtores\Herança Ordem de execução dos construtores\bin\Debug\netcoreapp3.1\Herança Ordem de execução dos construtores.exe
+C:\Users\Portaria1 Unlimited\source\repos\Herança Ordem de execução dos construtores\Herança Ordem de execução dos construtores\bin\Debug\netcoreapp3.1\Herança Ordem de execução dos construtores.deps.json
+C:\Users\Portaria1 Unlimited\source\repos\Herança Ordem de execução dos construtores\Herança Ordem de execução dos construtores\bin\Debug\netcoreapp3.1\Herança Ordem de execução dos construtores.runtimeconfig.json
+C:\Users\Portaria1 Unlimited\source\repos\Herança Ordem de execução dos construtores\Herança Ordem de execução dos construtores\bin\Debug\netcoreapp3.1\Herança Ordem de execução dos construtores.runtimeconfig.dev.json
+C:\Users\Portaria1 Unlimited\source\repos\Herança Ordem de execução dos construtores\Herança Ordem de execução dos construtores\bin\Debug\netcoreapp3.1\Herança Ordem de execução dos construtores.dll
+C:\Users\Portaria1 Unlimited\source\repos\Herança Ordem de execução dos construtores\Herança Ordem de execução dos construtores\bin\Debug\netcoreapp3.1\Herança Ordem de execução dos construtores.pdb
+C:\Users\Portaria1 Unlimited\source\repos\Herança Ordem de execução dos construtores\Herança Ordem de execução dos construtores\obj\Debug\netcoreapp3.1\Herança Ordem de execução dos construtores.csprojAssemblyReference.cache
+C:\Users\Portaria1 Unlimited\source\repos\Herança Ordem de execução dos construtores\Herança Ordem de execução dos construtores\obj\Debug\netcoreapp3.1\Herança Ordem de execução dos construtores.AssemblyInfoInputs.cache
+C:\Users\Portaria1 Unlimited\source\repos\Herança Ordem de execução dos construtores\Herança Ordem de execução dos construtores\obj\Debug\netcoreapp3.1\Herança Ordem de execução dos construtores.AssemblyInfo.cs
+C:\Users\Portaria1 Unlimited\source\repos\Herança Ordem de execução dos construtores\Herança Ordem de execução dos construtores\obj\Debug\netcoreapp3.1\Herança Ordem de execução dos construtores.csproj.CoreCompileInputs.cache
+C:\Users\Portaria1 Unlimited\source\repos\Herança Ordem de execução dos construtores\Herança Ordem de execução dos construtores\obj\Debug\netcoreapp3.1\Herança Ordem de execução dos construtores.dll
+C:\Users\Portaria1 Unlimited\source\repos\Herança Ordem de execução dos construtores\Herança Ordem de execução dos construtores\obj\Debug\netcoreapp3.1\Herança Ordem de execução dos construtores.pdb
+C:\Users\Portaria1 Unlimited\source\repos\Herança Ordem de execução dos construtores\Herança Ordem de execução dos construtores\obj\Debug\netcoreapp3.1\Herança Ordem de execução dos construtores.genruntimeconfig.cache
