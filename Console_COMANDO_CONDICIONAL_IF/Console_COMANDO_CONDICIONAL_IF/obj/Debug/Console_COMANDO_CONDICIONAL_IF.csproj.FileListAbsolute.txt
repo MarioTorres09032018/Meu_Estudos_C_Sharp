@@ -1,0 +1,6 @@
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\Console_COMANDO_CONDICIONAL_IF\Console_COMANDO_CONDICIONAL_IF\bin\Debug\Console_COMANDO_CONDICIONAL_IF.exe.config
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\Console_COMANDO_CONDICIONAL_IF\Console_COMANDO_CONDICIONAL_IF\bin\Debug\Console_COMANDO_CONDICIONAL_IF.exe
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\Console_COMANDO_CONDICIONAL_IF\Console_COMANDO_CONDICIONAL_IF\bin\Debug\Console_COMANDO_CONDICIONAL_IF.pdb
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\Console_COMANDO_CONDICIONAL_IF\Console_COMANDO_CONDICIONAL_IF\obj\Debug\Console_COMANDO_CONDICIONAL_IF.csprojResolveAssemblyReference.cache
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\Console_COMANDO_CONDICIONAL_IF\Console_COMANDO_CONDICIONAL_IF\obj\Debug\Console_COMANDO_CONDICIONAL_IF.exe
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\Console_COMANDO_CONDICIONAL_IF\Console_COMANDO_CONDICIONAL_IF\obj\Debug\Console_COMANDO_CONDICIONAL_IF.pdb
