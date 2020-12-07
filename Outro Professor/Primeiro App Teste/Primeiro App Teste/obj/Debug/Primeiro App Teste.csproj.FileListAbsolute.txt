@@ -1,0 +1,9 @@
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\Primeiro App Teste\Primeiro App Teste\bin\Debug\Primeiro App Teste.exe.config
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\Primeiro App Teste\Primeiro App Teste\bin\Debug\Primeiro App Teste.exe
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\Primeiro App Teste\Primeiro App Teste\bin\Debug\Primeiro App Teste.pdb
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\Primeiro App Teste\Primeiro App Teste\obj\Debug\Primeiro App Teste.csprojResolveAssemblyReference.cache
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\Primeiro App Teste\Primeiro App Teste\obj\Debug\Primeiro_App_Teste.Form1.resources
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\Primeiro App Teste\Primeiro App Teste\obj\Debug\Primeiro_App_Teste.Properties.Resources.resources
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\Primeiro App Teste\Primeiro App Teste\obj\Debug\Primeiro App Teste.csproj.GenerateResource.Cache
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\Primeiro App Teste\Primeiro App Teste\obj\Debug\Primeiro App Teste.exe
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\Primeiro App Teste\Primeiro App Teste\obj\Debug\Primeiro App Teste.pdb

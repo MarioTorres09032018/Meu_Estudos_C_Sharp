@@ -1,0 +1,21 @@
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\TelaLoginSenha\TelaLoginSenha\bin\Debug\TelaLoginSenha.exe.config
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\TelaLoginSenha\TelaLoginSenha\bin\Debug\TelaLoginSenha.exe
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\TelaLoginSenha\TelaLoginSenha\bin\Debug\TelaLoginSenha.pdb
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\TelaLoginSenha\TelaLoginSenha\obj\Debug\TelaLoginSenha.csprojResolveAssemblyReference.cache
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\TelaLoginSenha\TelaLoginSenha\obj\Debug\TelaLoginSenha.Form1.resources
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\TelaLoginSenha\TelaLoginSenha\obj\Debug\TelaLoginSenha.Properties.Resources.resources
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\TelaLoginSenha\TelaLoginSenha\obj\Debug\TelaLoginSenha.csproj.GenerateResource.Cache
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\TelaLoginSenha\TelaLoginSenha\obj\Debug\TelaLoginSenha.exe
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\TelaLoginSenha\TelaLoginSenha\obj\Debug\TelaLoginSenha.pdb
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\TelaLoginSenha\TelaLoginSenha\obj\Debug\TelaLoginSenha.TelaLoginSenhaNovoForm.resources
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2019\Projects\Outro Professor\TelaLoginSenha\TelaLoginSenha\bin\Debug\TelaLoginSenha.exe.config
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2019\Projects\Outro Professor\TelaLoginSenha\TelaLoginSenha\bin\Debug\TelaLoginSenha.exe
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2019\Projects\Outro Professor\TelaLoginSenha\TelaLoginSenha\bin\Debug\TelaLoginSenha.pdb
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2019\Projects\Outro Professor\TelaLoginSenha\TelaLoginSenha\obj\Debug\TelaLoginSenha.csprojAssemblyReference.cache
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2019\Projects\Outro Professor\TelaLoginSenha\TelaLoginSenha\obj\Debug\TelaLoginSenha.Form1.resources
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2019\Projects\Outro Professor\TelaLoginSenha\TelaLoginSenha\obj\Debug\TelaLoginSenha.Properties.Resources.resources
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2019\Projects\Outro Professor\TelaLoginSenha\TelaLoginSenha\obj\Debug\TelaLoginSenha.TelaLoginSenhaNovoForm.resources
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2019\Projects\Outro Professor\TelaLoginSenha\TelaLoginSenha\obj\Debug\TelaLoginSenha.csproj.GenerateResource.cache
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2019\Projects\Outro Professor\TelaLoginSenha\TelaLoginSenha\obj\Debug\TelaLoginSenha.csproj.CoreCompileInputs.cache
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2019\Projects\Outro Professor\TelaLoginSenha\TelaLoginSenha\obj\Debug\TelaLoginSenha.exe
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2019\Projects\Outro Professor\TelaLoginSenha\TelaLoginSenha\obj\Debug\TelaLoginSenha.pdb
