@@ -1,0 +1,13 @@
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\Console_CADEIA DE HERA_CONST_CL_BASE\Console_CADEIA DE HERA_CONST_CL_BASE\bin\Debug\Console_CADEIA DE HERA_CONST_CL_BASE.exe.config
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\Console_CADEIA DE HERA_CONST_CL_BASE\Console_CADEIA DE HERA_CONST_CL_BASE\bin\Debug\Console_CADEIA DE HERA_CONST_CL_BASE.exe
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\Console_CADEIA DE HERA_CONST_CL_BASE\Console_CADEIA DE HERA_CONST_CL_BASE\bin\Debug\Console_CADEIA DE HERA_CONST_CL_BASE.pdb
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\Console_CADEIA DE HERA_CONST_CL_BASE\Console_CADEIA DE HERA_CONST_CL_BASE\obj\Debug\Console_CADEIA DE HERA_CONST_CL_BASE.csprojResolveAssemblyReference.cache
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\Console_CADEIA DE HERA_CONST_CL_BASE\Console_CADEIA DE HERA_CONST_CL_BASE\obj\Debug\Console_CADEIA DE HERA_CONST_CL_BASE.exe
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\Console_CADEIA DE HERA_CONST_CL_BASE\Console_CADEIA DE HERA_CONST_CL_BASE\obj\Debug\Console_CADEIA DE HERA_CONST_CL_BASE.pdb
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2019\Projects\Console_CADEIA DE HERA_CONST_CL_BASE\Console_CADEIA DE HERA_CONST_CL_BASE\bin\Debug\Console_CADEIA DE HERA_CONST_CL_BASE.exe.config
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2019\Projects\Console_CADEIA DE HERA_CONST_CL_BASE\Console_CADEIA DE HERA_CONST_CL_BASE\bin\Debug\Console_CADEIA DE HERA_CONST_CL_BASE.exe
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2019\Projects\Console_CADEIA DE HERA_CONST_CL_BASE\Console_CADEIA DE HERA_CONST_CL_BASE\bin\Debug\Console_CADEIA DE HERA_CONST_CL_BASE.pdb
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2019\Projects\Console_CADEIA DE HERA_CONST_CL_BASE\Console_CADEIA DE HERA_CONST_CL_BASE\obj\Debug\Console_CADEIA DE HERA_CONST_CL_BASE.csprojAssemblyReference.cache
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2019\Projects\Console_CADEIA DE HERA_CONST_CL_BASE\Console_CADEIA DE HERA_CONST_CL_BASE\obj\Debug\Console_CADEIA DE HERA_CONST_CL_BASE.csproj.CoreCompileInputs.cache
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2019\Projects\Console_CADEIA DE HERA_CONST_CL_BASE\Console_CADEIA DE HERA_CONST_CL_BASE\obj\Debug\Console_CADEIA DE HERA_CONST_CL_BASE.exe
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2019\Projects\Console_CADEIA DE HERA_CONST_CL_BASE\Console_CADEIA DE HERA_CONST_CL_BASE\obj\Debug\Console_CADEIA DE HERA_CONST_CL_BASE.pdb
