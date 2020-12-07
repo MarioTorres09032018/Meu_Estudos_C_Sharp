@@ -1,0 +1,9 @@
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\Calendário TesteDeControles\Calendário TesteDeControles\bin\Debug\Calendário TesteDeControles.exe.config
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\Calendário TesteDeControles\Calendário TesteDeControles\bin\Debug\Calendário TesteDeControles.exe
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\Calendário TesteDeControles\Calendário TesteDeControles\bin\Debug\Calendário TesteDeControles.pdb
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\Calendário TesteDeControles\Calendário TesteDeControles\obj\Debug\Calendário TesteDeControles.csprojResolveAssemblyReference.cache
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\Calendário TesteDeControles\Calendário TesteDeControles\obj\Debug\Calendário_TesteDeControles.Form1.resources
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\Calendário TesteDeControles\Calendário TesteDeControles\obj\Debug\Calendário_TesteDeControles.Properties.Resources.resources
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\Calendário TesteDeControles\Calendário TesteDeControles\obj\Debug\Calendário TesteDeControles.csproj.GenerateResource.Cache
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\Calendário TesteDeControles\Calendário TesteDeControles\obj\Debug\Calendário TesteDeControles.exe
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\Calendário TesteDeControles\Calendário TesteDeControles\obj\Debug\Calendário TesteDeControles.pdb
