@@ -1,0 +1,6 @@
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\Console_OERADOR_THIS\Console_OERADOR_THIS\bin\Debug\Console_OERADOR_THIS.exe.config
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\Console_OERADOR_THIS\Console_OERADOR_THIS\bin\Debug\Console_OERADOR_THIS.exe
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\Console_OERADOR_THIS\Console_OERADOR_THIS\bin\Debug\Console_OERADOR_THIS.pdb
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\Console_OERADOR_THIS\Console_OERADOR_THIS\obj\Debug\Console_OERADOR_THIS.csprojResolveAssemblyReference.cache
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\Console_OERADOR_THIS\Console_OERADOR_THIS\obj\Debug\Console_OERADOR_THIS.exe
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\Console_OERADOR_THIS\Console_OERADOR_THIS\obj\Debug\Console_OERADOR_THIS.pdb

@@ -1,0 +1,6 @@
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\Console_METODOS_PARA_ARRAYS\Console_METODOS_PARA_ARRAYS\bin\Debug\Console_METODOS_PARA_ARRAYS.exe.config
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\Console_METODOS_PARA_ARRAYS\Console_METODOS_PARA_ARRAYS\obj\Debug\Console_METODOS_PARA_ARRAYS.csprojResolveAssemblyReference.cache
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\Console_METODOS_PARA_ARRAYS\Console_METODOS_PARA_ARRAYS\bin\Debug\Console_METODOS_PARA_ARRAYS.exe
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\Console_METODOS_PARA_ARRAYS\Console_METODOS_PARA_ARRAYS\bin\Debug\Console_METODOS_PARA_ARRAYS.pdb
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\Console_METODOS_PARA_ARRAYS\Console_METODOS_PARA_ARRAYS\obj\Debug\Console_METODOS_PARA_ARRAYS.exe
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\Console_METODOS_PARA_ARRAYS\Console_METODOS_PARA_ARRAYS\obj\Debug\Console_METODOS_PARA_ARRAYS.pdb

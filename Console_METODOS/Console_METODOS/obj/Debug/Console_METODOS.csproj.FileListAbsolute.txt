@@ -1,0 +1,6 @@
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\Console_METODOS\Console_METODOS\bin\Debug\Console_METODOS.exe.config
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\Console_METODOS\Console_METODOS\bin\Debug\Console_METODOS.exe
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\Console_METODOS\Console_METODOS\bin\Debug\Console_METODOS.pdb
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\Console_METODOS\Console_METODOS\obj\Debug\Console_METODOS.csprojResolveAssemblyReference.cache
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\Console_METODOS\Console_METODOS\obj\Debug\Console_METODOS.exe
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\Console_METODOS\Console_METODOS\obj\Debug\Console_METODOS.pdb

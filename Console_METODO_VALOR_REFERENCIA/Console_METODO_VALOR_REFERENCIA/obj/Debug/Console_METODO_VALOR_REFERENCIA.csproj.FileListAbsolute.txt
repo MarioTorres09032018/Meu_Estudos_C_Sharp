@@ -1,0 +1,6 @@
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\Console_METODO_VALOR_REFERENCIA\Console_METODO_VALOR_REFERENCIA\bin\Debug\Console_METODO_VALOR_REFERENCIA.exe.config
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\Console_METODO_VALOR_REFERENCIA\Console_METODO_VALOR_REFERENCIA\bin\Debug\Console_METODO_VALOR_REFERENCIA.exe
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\Console_METODO_VALOR_REFERENCIA\Console_METODO_VALOR_REFERENCIA\bin\Debug\Console_METODO_VALOR_REFERENCIA.pdb
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\Console_METODO_VALOR_REFERENCIA\Console_METODO_VALOR_REFERENCIA\obj\Debug\Console_METODO_VALOR_REFERENCIA.csprojResolveAssemblyReference.cache
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\Console_METODO_VALOR_REFERENCIA\Console_METODO_VALOR_REFERENCIA\obj\Debug\Console_METODO_VALOR_REFERENCIA.exe
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\Console_METODO_VALOR_REFERENCIA\Console_METODO_VALOR_REFERENCIA\obj\Debug\Console_METODO_VALOR_REFERENCIA.pdb
