@@ -1,0 +1,13 @@
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\Console_FORMATANDO SAIDA\Console_FORMATANDO SAIDA\bin\Debug\Console_FORMATANDO SAIDA.exe.config
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\Console_FORMATANDO SAIDA\Console_FORMATANDO SAIDA\bin\Debug\Console_FORMATANDO SAIDA.exe
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\Console_FORMATANDO SAIDA\Console_FORMATANDO SAIDA\bin\Debug\Console_FORMATANDO SAIDA.pdb
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\Console_FORMATANDO SAIDA\Console_FORMATANDO SAIDA\obj\Debug\Console_FORMATANDO SAIDA.csprojResolveAssemblyReference.cache
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\Console_FORMATANDO SAIDA\Console_FORMATANDO SAIDA\obj\Debug\Console_FORMATANDO SAIDA.exe
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\Console_FORMATANDO SAIDA\Console_FORMATANDO SAIDA\obj\Debug\Console_FORMATANDO SAIDA.pdb
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2019\Projects\Console_FORMATANDO SAIDA\Console_FORMATANDO SAIDA\bin\Debug\Console_FORMATANDO SAIDA.exe.config
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2019\Projects\Console_FORMATANDO SAIDA\Console_FORMATANDO SAIDA\bin\Debug\Console_FORMATANDO SAIDA.exe
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2019\Projects\Console_FORMATANDO SAIDA\Console_FORMATANDO SAIDA\bin\Debug\Console_FORMATANDO SAIDA.pdb
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2019\Projects\Console_FORMATANDO SAIDA\Console_FORMATANDO SAIDA\obj\Debug\Console_FORMATANDO SAIDA.csproj.CoreCompileInputs.cache
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2019\Projects\Console_FORMATANDO SAIDA\Console_FORMATANDO SAIDA\obj\Debug\Console_FORMATANDO SAIDA.exe
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2019\Projects\Console_FORMATANDO SAIDA\Console_FORMATANDO SAIDA\obj\Debug\Console_FORMATANDO SAIDA.pdb
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2019\Projects\Console_FORMATANDO SAIDA\Console_FORMATANDO SAIDA\obj\Debug\Console_FORMATANDO SAIDA.csprojAssemblyReference.cache

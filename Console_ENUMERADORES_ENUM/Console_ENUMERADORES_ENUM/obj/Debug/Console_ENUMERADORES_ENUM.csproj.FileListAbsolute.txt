@@ -1,0 +1,6 @@
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\Console_ENUMERADORES_ENUM\Console_ENUMERADORES_ENUM\bin\Debug\Console_ENUMERADORES_ENUM.exe.config
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\Console_ENUMERADORES_ENUM\Console_ENUMERADORES_ENUM\bin\Debug\Console_ENUMERADORES_ENUM.exe
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\Console_ENUMERADORES_ENUM\Console_ENUMERADORES_ENUM\bin\Debug\Console_ENUMERADORES_ENUM.pdb
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\Console_ENUMERADORES_ENUM\Console_ENUMERADORES_ENUM\obj\Debug\Console_ENUMERADORES_ENUM.csprojResolveAssemblyReference.cache
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\Console_ENUMERADORES_ENUM\Console_ENUMERADORES_ENUM\obj\Debug\Console_ENUMERADORES_ENUM.exe
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\Console_ENUMERADORES_ENUM\Console_ENUMERADORES_ENUM\obj\Debug\Console_ENUMERADORES_ENUM.pdb

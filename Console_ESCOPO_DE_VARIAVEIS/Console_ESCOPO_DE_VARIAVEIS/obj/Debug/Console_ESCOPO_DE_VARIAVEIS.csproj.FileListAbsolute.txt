@@ -1,0 +1,6 @@
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\Console_ESCOPO_DE_VARIAVEIS\Console_ESCOPO_DE_VARIAVEIS\bin\Debug\Console_ESCOPO_DE_VARIAVEIS.exe.config
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\Console_ESCOPO_DE_VARIAVEIS\Console_ESCOPO_DE_VARIAVEIS\bin\Debug\Console_ESCOPO_DE_VARIAVEIS.exe
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\Console_ESCOPO_DE_VARIAVEIS\Console_ESCOPO_DE_VARIAVEIS\bin\Debug\Console_ESCOPO_DE_VARIAVEIS.pdb
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\Console_ESCOPO_DE_VARIAVEIS\Console_ESCOPO_DE_VARIAVEIS\obj\Debug\Console_ESCOPO_DE_VARIAVEIS.csprojResolveAssemblyReference.cache
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\Console_ESCOPO_DE_VARIAVEIS\Console_ESCOPO_DE_VARIAVEIS\obj\Debug\Console_ESCOPO_DE_VARIAVEIS.exe
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\Console_ESCOPO_DE_VARIAVEIS\Console_ESCOPO_DE_VARIAVEIS\obj\Debug\Console_ESCOPO_DE_VARIAVEIS.pdb
