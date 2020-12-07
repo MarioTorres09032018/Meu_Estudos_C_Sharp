@@ -1,0 +1,6 @@
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\Console_CONSTANTES_CS\Console_CONSTANTES_CS\bin\Debug\Console_CONSTANTES_CS.exe.config
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\Console_CONSTANTES_CS\Console_CONSTANTES_CS\bin\Debug\Console_CONSTANTES_CS.exe
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\Console_CONSTANTES_CS\Console_CONSTANTES_CS\bin\Debug\Console_CONSTANTES_CS.pdb
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\Console_CONSTANTES_CS\Console_CONSTANTES_CS\obj\Debug\Console_CONSTANTES_CS.csprojResolveAssemblyReference.cache
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\Console_CONSTANTES_CS\Console_CONSTANTES_CS\obj\Debug\Console_CONSTANTES_CS.exe
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\Console_CONSTANTES_CS\Console_CONSTANTES_CS\obj\Debug\Console_CONSTANTES_CS.pdb
