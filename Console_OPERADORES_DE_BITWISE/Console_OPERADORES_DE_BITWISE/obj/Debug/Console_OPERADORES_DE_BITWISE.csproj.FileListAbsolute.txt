@@ -1,0 +1,6 @@
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\Console_OPERADORES_DE_BITWISE\Console_OPERADORES_DE_BITWISE\bin\Debug\Console_OPERADORES_DE_BITWISE.exe.config
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\Console_OPERADORES_DE_BITWISE\Console_OPERADORES_DE_BITWISE\bin\Debug\Console_OPERADORES_DE_BITWISE.exe
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\Console_OPERADORES_DE_BITWISE\Console_OPERADORES_DE_BITWISE\bin\Debug\Console_OPERADORES_DE_BITWISE.pdb
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\Console_OPERADORES_DE_BITWISE\Console_OPERADORES_DE_BITWISE\obj\Debug\Console_OPERADORES_DE_BITWISE.csprojResolveAssemblyReference.cache
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\Console_OPERADORES_DE_BITWISE\Console_OPERADORES_DE_BITWISE\obj\Debug\Console_OPERADORES_DE_BITWISE.exe
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\Console_OPERADORES_DE_BITWISE\Console_OPERADORES_DE_BITWISE\obj\Debug\Console_OPERADORES_DE_BITWISE.pdb

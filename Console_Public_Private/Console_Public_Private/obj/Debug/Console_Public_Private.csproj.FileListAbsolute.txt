@@ -1,0 +1,6 @@
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\Console_Public_Private\Console_Public_Private\bin\Debug\Console_Public_Private.exe.config
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\Console_Public_Private\Console_Public_Private\bin\Debug\Console_Public_Private.exe
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\Console_Public_Private\Console_Public_Private\bin\Debug\Console_Public_Private.pdb
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\Console_Public_Private\Console_Public_Private\obj\Debug\Console_Public_Private.csprojResolveAssemblyReference.cache
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\Console_Public_Private\Console_Public_Private\obj\Debug\Console_Public_Private.exe
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\Console_Public_Private\Console_Public_Private\obj\Debug\Console_Public_Private.pdb

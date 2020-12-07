@@ -1,0 +1,6 @@
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\Console_Operadores\Console_Operadores\bin\Debug\Console_Operadores.exe.config
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\Console_Operadores\Console_Operadores\bin\Debug\Console_Operadores.exe
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\Console_Operadores\Console_Operadores\bin\Debug\Console_Operadores.pdb
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\Console_Operadores\Console_Operadores\obj\Debug\Console_Operadores.csprojResolveAssemblyReference.cache
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\Console_Operadores\Console_Operadores\obj\Debug\Console_Operadores.exe
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\Console_Operadores\Console_Operadores\obj\Debug\Console_Operadores.pdb

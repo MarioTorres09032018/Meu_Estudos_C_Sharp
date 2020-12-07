@@ -1,0 +1,6 @@
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\Console_SWITCH_CASE\Console_SWITCH_CASE\bin\Debug\Console_SWITCH_CASE.exe.config
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\Console_SWITCH_CASE\Console_SWITCH_CASE\obj\Debug\Console_SWITCH_CASE.csprojResolveAssemblyReference.cache
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\Console_SWITCH_CASE\Console_SWITCH_CASE\bin\Debug\Console_SWITCH_CASE.exe
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\Console_SWITCH_CASE\Console_SWITCH_CASE\bin\Debug\Console_SWITCH_CASE.pdb
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\Console_SWITCH_CASE\Console_SWITCH_CASE\obj\Debug\Console_SWITCH_CASE.exe
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\Console_SWITCH_CASE\Console_SWITCH_CASE\obj\Debug\Console_SWITCH_CASE.pdb
