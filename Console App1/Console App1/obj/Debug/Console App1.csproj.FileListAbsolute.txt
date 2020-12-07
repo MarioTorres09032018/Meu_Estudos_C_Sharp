@@ -1,0 +1,12 @@
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\Monstrinho\Console app1\Console app1\bin\Debug\Console app1.exe.config
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\Monstrinho\Console app1\Console app1\obj\Debug\Console app1.csprojResolveAssemblyReference.cache
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\Monstrinho\Console app1\Console app1\bin\Debug\Console app1.exe
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\Monstrinho\Console app1\Console app1\bin\Debug\Console app1.pdb
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\Monstrinho\Console app1\Console app1\obj\Debug\Console app1.exe
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\Monstrinho\Console app1\Console app1\obj\Debug\Console app1.pdb
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\Console app1\Console app1\bin\Debug\Console app1.exe.config
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\Console app1\Console app1\obj\Debug\Console app1.exe
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\Console app1\Console app1\obj\Debug\Console app1.pdb
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\Console app1\Console app1\bin\Debug\Console app1.exe
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\Console app1\Console app1\bin\Debug\Console app1.pdb
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\Console app1\Console app1\obj\Debug\Console app1.csprojResolveAssemblyReference.cache
