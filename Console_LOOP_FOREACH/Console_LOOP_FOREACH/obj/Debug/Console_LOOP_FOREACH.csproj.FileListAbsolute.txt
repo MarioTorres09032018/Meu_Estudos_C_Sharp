@@ -1,0 +1,6 @@
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\Console_LOOP_FOREACH\Console_LOOP_FOREACH\bin\Debug\Console_LOOP_FOREACH.exe.config
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\Console_LOOP_FOREACH\Console_LOOP_FOREACH\obj\Debug\Console_LOOP_FOREACH.csprojResolveAssemblyReference.cache
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\Console_LOOP_FOREACH\Console_LOOP_FOREACH\bin\Debug\Console_LOOP_FOREACH.exe
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\Console_LOOP_FOREACH\Console_LOOP_FOREACH\bin\Debug\Console_LOOP_FOREACH.pdb
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\Console_LOOP_FOREACH\Console_LOOP_FOREACH\obj\Debug\Console_LOOP_FOREACH.exe
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\Console_LOOP_FOREACH\Console_LOOP_FOREACH\obj\Debug\Console_LOOP_FOREACH.pdb
