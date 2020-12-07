@@ -1,0 +1,6 @@
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\Console_ARGUMENTO_OUT\Console_ARGUMENTO_OUT\bin\Debug\Console_ARGUMENTO_OUT.exe.config
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\Console_ARGUMENTO_OUT\Console_ARGUMENTO_OUT\bin\Debug\Console_ARGUMENTO_OUT.exe
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\Console_ARGUMENTO_OUT\Console_ARGUMENTO_OUT\bin\Debug\Console_ARGUMENTO_OUT.pdb
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\Console_ARGUMENTO_OUT\Console_ARGUMENTO_OUT\obj\Debug\Console_ARGUMENTO_OUT.csprojResolveAssemblyReference.cache
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\Console_ARGUMENTO_OUT\Console_ARGUMENTO_OUT\obj\Debug\Console_ARGUMENTO_OUT.exe
+C:\Users\Portaria1 Unlimited\Documents\Visual Studio 2013\Projects\Console_ARGUMENTO_OUT\Console_ARGUMENTO_OUT\obj\Debug\Console_ARGUMENTO_OUT.pdb
